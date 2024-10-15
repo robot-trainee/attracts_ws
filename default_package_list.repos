@@ -1,1 +1,13 @@
 repositories:
+  attracts_bridge:
+    type: git
+    url: git@github.com:robot-trainee/attracts_bridge.git
+    version: main
+  attracts_description:
+    type: git
+    url: git@github.com:robot-trainee/attracts_description.git
+    version: main
+  attracts_interface:
+    type: git
+    url: git@github.com:robot-trainee/attracts_interface.git
+    version: main
