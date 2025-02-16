@@ -11,3 +11,15 @@ repositories:
     type: git
     url: git@github.com:robot-trainee/attracts_interface.git
     version: main
+  attracts_msgs:
+    type: git
+    url: git@github.com:robot-trainee/attracts_msgs.git
+    version: main
+  rabcl:
+    type: git
+    url: git@github.com:robot-trainee/rabcl.git
+    version: main
+  rabcl_ros2:
+    type: git
+    url: git@github.com:robot-trainee/rabcl_ros2.git
+    version: main
